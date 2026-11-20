@@ -106,3 +106,4 @@ label { display: block; font-size: .85rem; font-weight: 600; color: var(--gris);
 table.simple { width: 100%; border-collapse: collapse; font-size: .9rem; }
 table.simple td, table.simple th { padding: 6px 4px; border-bottom: 1px solid #EEF1F5; text-align: left; }
 table.simple td.der, table.simple th.der { text-align: right; }
+.tabbar[hidden] { display: none; }
